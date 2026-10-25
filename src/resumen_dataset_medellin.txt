@@ -1,0 +1,41 @@
+REPORTE DEL DATAFRAME
+============================================================
+Filas: 0
+Columnas: 16
+Duplicados: 0
+
+Columnas y tipos:
+- slug: str
+- titulo: str
+- ciudad: str
+- barrio: str
+- localidad: float64
+- operacion: str
+- tipo: str
+- n_avisos: int64
+- p25_cop: float64
+- mediana_cop: float64
+- p75_cop: float64
+- mediana_cop_m2: float64
+- fecha_datos: str
+- aptologia_url: str
+- zenodo_doi: str
+- osf_url: float64
+
+Valores nulos por columna:
+- slug: 0
+- titulo: 0
+- ciudad: 0
+- barrio: 0
+- localidad: 0
+- operacion: 0
+- tipo: 0
+- n_avisos: 0
+- p25_cop: 0
+- mediana_cop: 0
+- p75_cop: 0
+- mediana_cop_m2: 0
+- fecha_datos: 0
+- aptologia_url: 0
+- zenodo_doi: 0
+- osf_url: 0
